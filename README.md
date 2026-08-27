@@ -23,5 +23,5 @@ Ce dépôt présente mes projets en **data science**, **machine learning** et **
 ---
 
 ## Contact
-- LinkedIn :
+- LinkedIn : linkedin.com/in/nouhan-kourouma-86b3751ab
 - Email : kouroumanouhan2019@gmail.com
